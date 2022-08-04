@@ -1,0 +1,40 @@
+
+#heading
+{
+font-size: 35px;
+width: 20%;
+margin: 0px;
+font-weight: bold;
+color: gold;
+background-color: black;
+border-radius: 45px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body
+{
+    background-size: cover;
+}
+#no_of_objects,#status
+{
+    font-weight: bold;
+    color: black;
+    background-color: gold;
+    border-radius: 45px;
+    font-size: 20px;
+}
+#no_of_objects
+{
+    margin-top: 0px;
+}
+#start 
+{
+    font-weight: bold;
+    border-radius: 45px;
+    font-size: 20px;
+    color: lightgreen;
+    background-color: darkblue;
+}
